@@ -2,7 +2,7 @@
 
 Problema
 
-🚀 Escopo:
+📄 Escopo:
 
 
 📚 Bibliotecas Necessárias:
