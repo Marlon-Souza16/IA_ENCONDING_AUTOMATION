@@ -1,11 +1,11 @@
 # IA_ENCONDING_AUTOMATION
 
-Problema
+🔎 Problema
 
-📄 Escopo:
+📄 Escopo
 
 
-📚 Bibliotecas Necessárias:
+📚 Bibliotecas Necessárias
 
 - OpenAi (Api utilizada para encontrar as sugestões de código)
 - ChromaDB (Base de dados vetorial utilizada para guardar os exemplos utilizados pela API)
@@ -16,7 +16,7 @@ Problema
 - Re (Utilizada para lidar com expressões regulares)
 - csv (Utilizada para lidar com arquivos CSV)
 - Unidecode (Utilizada para realizar a remoção de caracteres com acento das descrições)
-- Tenacity (Utilizada para aplicar um retry [em caso de erro] a função desejada)
+- Tenacity (Utilizada para em caso de erro aplicar um retry a função desejada)
 
 📋 Pré-requisitos
 
@@ -33,9 +33,9 @@ Problema
 🛠️ Construído com
 
 - Python (Linguagem de programação utilziada)
-- ChromaDB (Base vetorial utilizada)
-- OpenAi (Api utilizada)
+- [ChromaDB](https://docs.trychroma.com/usage-guide) (Base vetorial utilizada)
+- [OpenAi](https://platform.openai.com/docs/api-reference/introduction) (Api utilizada)
 
-✒️ Autores
+🖊️ Autor
 
 Marlon de Souza.
