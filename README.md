@@ -32,6 +32,9 @@ Problema
 
 🛠️ Construído com
 
+- Python (Linguagem de programação utilziada)
+- ChromaDB (Base vetorial utilizada)
+- OpenAi (Api utilizada)
 
 ✒️ Autores
 
