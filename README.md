@@ -29,6 +29,7 @@ Problema
 
 - Comando para instalar a Api da OpenAi: ```pip install openai```
 - Comando para instalar o ChromaDB: ```pip install chromadb```
+
 🛠️ Construído com
 
 
