@@ -1,8 +1,11 @@
 # IA_ENCONDING_AUTOMATION
 
-🔎 Problema
+🔎 Problema Identificado
 
-📄 Escopo
+Este projeto foi desenvolvido com o objetivo de solucionar o problema encontrado no processo de codificação de descrições, que anteriormente era realizado manualmente. A necessidade de extrair códigos específicos de descrições era evidente, mas a execução manual desse processo consumia muito tempo e recursos humanos, podendo atrasar demais processos. 
+
+✅ Solução
+
 
 
 📚 Bibliotecas Necessárias
