@@ -20,9 +20,10 @@ Problema
 
 📋 Pré-requisitos
 
-Instalar o python
-Instalar a OpenAi
-Instalar o ChromaDB
+- Instalar o python
+- Instalar a OpenAi
+- Instalar o ChromaDB
+- E as demais bibliotecas listadas acima
 
 🔧 Instalação
 
