@@ -32,7 +32,7 @@
 
 🛠️ Construído com
 
-- Python (Linguagem de programação utilziada)
+- [Python](https://www.python.org/doc/) (Linguagem de programação utilziada)
 - [ChromaDB](https://docs.trychroma.com/usage-guide) (Base vetorial utilizada)
 - [OpenAi](https://platform.openai.com/docs/api-reference/introduction) (Api utilizada)
 
