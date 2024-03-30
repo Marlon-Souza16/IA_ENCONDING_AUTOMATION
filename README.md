@@ -6,6 +6,11 @@ Este projeto foi desenvolvido com o objetivo de solucionar o problema encontrado
 
 ✅ Solução
 
+Para resolver esse problema, foi implementada uma solução baseada em inteligência artificial (IA) para automação da planilha. Utilizando a API da OpenAI para gerar sugestões de código com base nas descrições fornecidas. Para garantir a precisão da Api na hora de gerar os dados, foi implementado alguns tratamentos antes e após a requisição a api. Sendo assim o processo de codificação foi otimizado por meio de várias técnicas, incluindo o uso de expressões regulares para identificar padrões de código nas sugestões geradas, a formatação dos dados, removendo caracteres que não são importantes, tais quais virgulas, barras verticais, aspas e assim por diante, além de todo o texto ser colocado em Upper Case, e, após isso é  feito também a remoção de texto após palavras-chave específicas para evitar a obtenção de “falsos códigos” por parte da IA. 
+
+Outro método implementado para garantir uma grande assertividade por parte da IA é utilizar exemplos dinâmicos de acordo com a descrição que queremos codificar, portanto, antes de enviarmos a prompt para api, buscamos na base vetorial os exemplos mais similares a essa descrição, aplicando a similaridade de cosseno nessa busca, assim, montando um prompt eficiente e específico para descrição que desejamos codificar.
+
+Após obter uma sugestão de código, fazemos uma verificação para garantir que esse código obtido tenha sido extraído da descrição fornecida, assim, garantindo que o código seja verídico, e não um código “inventado” pela IA. Com essa verificação, tornamos o software ainda mais confiável e preciso na extração de códigos, assegurando a integridade dos resultados gerados. 
 
 
 📚 Bibliotecas Necessárias
